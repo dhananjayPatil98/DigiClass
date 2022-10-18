@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283971937706",
+    "project_id": "digi-class-dcab5",
+    "storage_bucket": "digi-class-dcab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283971937706:android:9b84e56d4eca8560ce77d3",
+        "android_client_info": {
+          "package_name": "com.example.school_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283971937706-h5krdvnfkmkelf49gfvanpg6aab00b3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9T0hqx_GOxA_L7npc5q5BUBYwuvxi98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283971937706-h5krdvnfkmkelf49gfvanpg6aab00b3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
